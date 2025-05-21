@@ -1,7 +1,6 @@
-```markdown
 # Beginner Code Lab 
 
-Welcome to *Beginner Code Lab* – a multi-language coding playground for beginners! Whether you're starting with web development or exploring backend programming, this repository is here to help you learn by doing.
+Welcome to **Beginner Code Lab** – a multi-language coding playground for beginners! Whether you're starting with web development or exploring backend programming, this repository is here to help you learn by doing.
 
 ---
 
@@ -43,6 +42,7 @@ This project is designed for:
 - **HTML** – Page structure, forms, semantic tags
 - **CSS** – Styling basics, flexbox, grid, animations
 - **JavaScript** – DOM manipulation, events, functions, basic logic
+- **TypeScript** - 
 
 ### Backend
 - **Python** – Scripting, basic logic, file handling

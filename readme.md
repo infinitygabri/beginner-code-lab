@@ -8,7 +8,6 @@ Welcome to **Beginner Code Lab** – a multi-language coding playground for begi
 
 ```
 
-```markdown
 multi-lang/
 ├── frontend/
 │   ├── html/         # HTML basics and examples

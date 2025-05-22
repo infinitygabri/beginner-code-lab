@@ -1,6 +1,6 @@
 # Beginner Code Lab 
 
-Welcome to **Beginner Code Lab** – a multi-language coding playground for beginners! Whether you're starting with web development or exploring backend programming, this repository is here to help you learn by doing.
+**Beginner Code Lab** is a multi-language coding playground designed for beginners who want to learn by doing! Whether you're exploring web development, backend programming, or mobile app creation, this repository is your hands-on companion to practice, break, and build things in code.
 
 ---
 
@@ -9,17 +9,29 @@ Welcome to **Beginner Code Lab** – a multi-language coding playground for begi
 ```
 
 multi-lang/
+|
 ├── frontend/
-│   ├── html/         # HTML basics and examples
-│   ├── css/          # CSS fundamentals and styling demos
-│   └── javascript/   # JS syntax, DOM manipulation, and simple projects
+│   ├── html/         
+│   ├── css/          
+│   └── javascript/  
 │   └── typescript/   
+│   └── react/   
 │
 ├── backend/
-│   ├── python/       # Python basics, scripts, and mini projects
-│   ├── nodejs/       # Node.js with JavaScript (backend)
-│   ├── php/          # PHP basics and server-side examples
-│   └── java/         # Java backend examples and concepts
+│   ├── python/       
+│   ├── nodejs/      
+│   ├── php/         
+|   ├── go/ 
+|   ├── c/
+|   ├── cpp/  
+│   └── java/         
+│          
+├── mobile/
+|   ├── flutter/ 
+|   ├── kotlin/ 
+|   ├── reactnative/ 
+|   └── swift/ 
+
 
 ````
 
@@ -30,24 +42,32 @@ multi-lang/
 This project is designed for:
 
 - Beginners who want to explore programming languages.
-- Students learning front-end and back-end development
-- Developers experimenting with syntax and code logic
+- Students learning front-end, back-end and mobile development.
+- Developers experimenting with syntax and code logic.
 
 ---
 
-## What You'll Learn
+## What You'll Learn 
 
 ### Frontend
 - **HTML** – Page structure, forms, semantic tags
 - **CSS** – Styling basics, flexbox, grid, animations
 - **JavaScript** – DOM manipulation, events, functions, basic logic
-- **TypeScript** - 
+- **TypeScript** - Typed JavaScript and strict coding
 
 ### Backend
 - **Python** – Scripting, basic logic, file handling
 - **Node.js** – Server setup with JavaScript
 - **PHP** – Basics of server-side scripting
 - **Java** – Syntax, functions, console applications
+- **Go** – Simple servers, syntax, and concurrency
+- **C/C++** – Console apps, logic building, pointers
+
+### 📱 Mobile
+- **Flutter** – Widgets, layout, and navigation
+- **Kotlin** – Android basics and logic
+- **React Native** – Cross-platform UI with JS
+- **Swift** – iOS UI and app logic
 
 ---
 

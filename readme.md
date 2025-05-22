@@ -4,6 +4,18 @@
 
 ---
 
+## Branches Rules
+
+- This repository is restricted from directly pushing changes to the master and develop branches.
+
+## Commit Message Rules
+
+- Features feat: ```<message_here>```
+- Bug Fixes fix: ```<message_here>```
+- Chores chore: ```<message_here>```
+- Styles ui: ```<message_here>```
+- Document docs: ```<message_here>```
+
 ## Folder Structure
 
 ```
@@ -63,7 +75,7 @@ This project is designed for:
 - **Go** – Simple servers, syntax, and concurrency
 - **C/C++** – Console apps, logic building, pointers
 
-### 📱 Mobile
+### Mobile
 - **Flutter** – Widgets, layout, and navigation
 - **Kotlin** – Android basics and logic
 - **React Native** – Cross-platform UI with JS
@@ -90,7 +102,7 @@ cd beginner-code-lab/multi-lang
 
    * Start with the README inside each language folder (if available).
    * Search for beginner documentation online.
-   * Don’t be afraid to break things — that’s how you learn!
+   * Don’t be afraid to break things — that’s how you learn.
 
 ---
 
